@@ -1,0 +1,22 @@
+@charset "utf-8";
+	.slide-in-top {
+	-webkit-animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	        animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}.logo {
+	margin-left: 35px;
+	margin-bottom: 0px;
+
+
+}
+.head-title li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 18px 30px;
+	text-decoration: none;
+	border-radius: 50px 20px;
+	font-family: aclonica;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22px;
+}
