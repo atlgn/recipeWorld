@@ -1,2 +1,7 @@
 # recipeWorld
- itec327Project Online Recipe WebSite
+ Itec327Project Online Recipe WebSite
+ Server-side Application Term Project 
+ 
+ PHP + Mysql +  Bootstrap
+ 
+ 
